@@ -24,7 +24,7 @@ The easiest way to use Git is to download and install [Github desktop](https://d
 
 If you work at the GICHD there are special steps to install and use Github on the local network* so follow this process;
 
-a. Install and configure Git SCM for Windows
+a. Install and configure [Git SCM for Windows](https://git-scm.com/download/win)
 
    This is the command line version of git and is required to configure Git with our proxy server.  
 
